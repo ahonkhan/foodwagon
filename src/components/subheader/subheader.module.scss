@@ -1,0 +1,45 @@
+.buttonSearch {
+    /* Button Bold */
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    line-height: 100%;
+
+    /* identical to box height, or 18px */
+    text-align: center;
+
+    /* Theme/Gray 800 */
+    color: #424242;
+
+
+}
+
+.subheader__middleText {
+    font-family: 'Open Sans';
+    font-style: normal;
+    line-height: 140%;
+    /* or 25px */
+    text-align: center;
+    /* Theme/Gray 800 */
+    color: #424242;
+
+    span {
+        /* Button Bold */
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        line-height: 100%;
+        /* identical to box height, or 18px */
+        text-align: center;
+        /* Theme/Gray 800 */
+        color: #424242;
+
+
+    }
+}
+
+.subHeader {
+    /* Theme/White */
+    background: #FFFFFF;
+
+    /* Object shadow 1 */
+    box-shadow: 0px 5px 10px rgba(255, 174, 0, 0.26), 0px 20px 40px rgba(255, 174, 0, 0.29);
+}
